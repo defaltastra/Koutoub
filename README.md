@@ -25,7 +25,7 @@
 ---
 
 
----
+
 
 ## ⚙️ Installation locale
 
@@ -52,7 +52,7 @@
 
 Un grand merci à [@douhablr](https://github.com/douhablr) pour ses contributions au projet. 🔥
 
----
+
 
 ## 📄 Licence
 
